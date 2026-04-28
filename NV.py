@@ -1,4 +1,4 @@
 import os
-os.syste("git pull")
+os.system("git pull")
 import nv
 nv.nvvx()
